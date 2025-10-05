@@ -96,8 +96,8 @@ Experiment with different click strategies (e.g., more clicks, adaptive click pl
 
 License
 This project is for educational purposes and uses datasets available on Kaggle. Ensure compliance with the respective dataset licenses (LVIS, BSDS500) when using this code.
-Acknowledgments
 
+Acknowledgments
 LVIS Dataset: Provided by the LVIS team.
 BSDS500 Dataset: Provided by the Berkeley Vision Group.
 Kaggle: For hosting the datasets and providing the computation environment.
